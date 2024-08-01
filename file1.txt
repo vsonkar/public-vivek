@@ -1,1 +1,2 @@
 This is my first file in a Git repository.
+Adding more content to file1.txt.
